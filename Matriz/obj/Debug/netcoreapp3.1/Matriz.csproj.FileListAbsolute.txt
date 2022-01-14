@@ -1,0 +1,5 @@
+C:\imersao_logica\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.csproj.AssemblyReference.cache
+C:\imersao_logica\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\imersao_logica\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.AssemblyInfoInputs.cache
+C:\imersao_logica\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.AssemblyInfo.cs
+C:\imersao_logica\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.csproj.CoreCompileInputs.cache
